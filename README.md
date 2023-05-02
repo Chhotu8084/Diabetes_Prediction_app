@@ -7,4 +7,3 @@ Python
 
 Jupyter Notebook
 
-Streamlit
